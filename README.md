@@ -19,6 +19,7 @@ Run `main.py` to:
 1. Input details for multiple cats.
 2. Display their information.
 3. Check if a cat is a kitten.
+   
 ![Alt Text](https://github.com/vhenewer/Creating-a-class/blob/main/Снимок%20экрана%202025-02-06%20в%2017.18.53.png)
 
 
